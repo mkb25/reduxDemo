@@ -1,0 +1,21 @@
+.catalog {
+    padding: 2rem;
+    margin: 1rem;
+    border: 1px solid black;    
+}
+
+.card-img-top{
+    height: 400px;
+    width: 300px;
+    align-self: center;
+    object-fit: cover;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    /* border-radius: 9%; */
+}
+
+.card-img-top:hover {
+    /* transform: scale(1.1); */
+    box-shadow: 10px 10px 5px grey;
+
+}
